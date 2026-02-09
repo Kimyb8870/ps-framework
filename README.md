@@ -54,7 +54,7 @@ The skill auto-activates when these contexts are detected:
 
 ## Inspired by
 
-"기획은 2형식이다" (Planning is a second-form sentence) — a book on problem-definition methodology.
+"기획은 2형식이다" - 남충식
 
 ## License
 
