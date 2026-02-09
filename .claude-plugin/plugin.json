@@ -1,0 +1,12 @@
+{
+  "name": "ps-framework",
+  "version": "1.0.0",
+  "description": "P는 S이다 — 본질적 문제 정의 프레임워크 for Claude Code",
+  "author": {
+    "name": "kimyb8870"
+  },
+  "repository": "https://github.com/kimyb8870/ps-framework",
+  "license": "MIT",
+  "keywords": ["problem-solving", "planning", "framework"],
+  "skills": "./skills"
+}

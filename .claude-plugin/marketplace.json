@@ -1,0 +1,15 @@
+{
+  "name": "ps-framework",
+  "owner": {
+    "name": "kimyb8870"
+  },
+  "plugins": [
+    {
+      "name": "ps-framework",
+      "description": "P는 S이다 — 본질적 문제 정의 프레임워크",
+      "version": "1.0.0",
+      "source": ".",
+      "category": "productivity"
+    }
+  ]
+}
